@@ -1,6 +1,6 @@
 
 
-<h2 aline"left"> Olá, eu sou Fábio Furtili, tudo bem? 👋</h2>
+<h2 aline"left"> Olá, eu sou Fábio Furtili 👋</h2>
 
 
 <div align="center">
