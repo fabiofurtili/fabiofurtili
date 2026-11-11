@@ -20,7 +20,6 @@
   <img width="8"/>
   <img src="https://img.shields.io/badge/LLMs-4B0082?style=for-the-badge" height="28"/>
   <img width="8"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge" height="28"/>
 </div>
 
 <br/>
