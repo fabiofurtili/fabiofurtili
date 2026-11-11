@@ -16,16 +16,6 @@
 
 <br/>
 
-<div style="display: inline_block">
-  <img align="center" alt="Microsoft" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img align="center" alt="SAP" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
-  <img align="center" alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img align="center" alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
-</div>
-
-<br/>
-
 ## Sobre mim
 
 Sou formado em Análise e Desenvolvimento de Sistemas, com pós-graduação em Engenharia de Dados e MBA em Inteligência Artificial e Big Data. Atuo há mais de 20 anos na área de tecnologia, com sólida experiência em arquitetura de soluções, análise de dados, automações inteligentes e aplicação prática de IA em contextos corporativos e produtos digitais.
