@@ -12,14 +12,6 @@
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="SQL"/>
 
-  <br/> 
-  <!-- IA / LLMs -->
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="28"/>
-  <img width="8"/>
-  <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" height="28"/>
-  <img width="8"/>
-  <img src="https://img.shields.io/badge/LLMs-4B0082?style=for-the-badge" height="28"/>
-  <img width="8"/>
 </div>
 
 <br/>
