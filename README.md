@@ -1,7 +1,5 @@
 <h2 align="left">Olá, eu sou Fábio Furtili 👋</h2>
 
-## Atuação em Inteligência Artificial
-
 <div align="left">
   <!-- Linguagens base -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
