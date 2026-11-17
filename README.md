@@ -1,26 +1,30 @@
+
 <h2 align="left">Olá, eu sou Fábio Furtili 👋</h2>
 
-<div align="left">
-  <!-- Linguagens base -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="SQL"/>
+<p align="left">
+  Analista de Sistemas Sênior | Desenvolvedor Full Stack
+</p>
 
+## 👨‍💻 Sobre mim
+
+Profissional de tecnologia com mais de 20 anos de experiência em TI, atuando no desenvolvimento de sistemas corporativos, integrações, automações e soluções orientadas a dados.
+
+Graduado em Análise e Desenvolvimento de Sistemas, com pós-graduação em Engenharia de Dados e MBA em Inteligência Artificial e Big Data.
+
+Tenho experiência em desenvolvimento Full Stack, bancos de dados, Business Intelligence e integração de sistemas com ERPs, além de explorar aplicações práticas de Inteligência Artificial para otimização de processos.
+
+## 🛠️ Tecnologias
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="32" alt="Oracle"/>
 </div>
 
-<br/>
-
-## Sobre mim
-
-Sou formado em Análise e Desenvolvimento de Sistemas, com pós-graduação em Engenharia de Dados e MBA em Inteligência Artificial e Big Data. Atuo há mais de 20 anos na área de tecnologia, com sólida experiência em arquitetura de soluções, análise de dados, automações inteligentes e aplicação prática de IA em contextos corporativos e produtos digitais.
-
-Tenho foco em Machine Learning, Deep Learning, Large Language Models (LLMs), automação inteligente, MLOps e integração de IA a processos de negócio, sempre priorizando escalabilidade, governança e impacto real.
-
-<br/>
+## 🔗 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiofurtili)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fabiofurtili)
